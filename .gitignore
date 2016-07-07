@@ -1,0 +1,2 @@
+# ignore all .DS_Store files created by OS X Finder
+		.DS_Store
